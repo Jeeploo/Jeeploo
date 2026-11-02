@@ -1,31 +1,44 @@
- ## Hello there :v:, my name is Jefferson Ferreira;
- ### but you guys can also call me Jeff :wink:.
- 
- ####  :writing_hand: About me : 
- 
- Ever since i was a child, i always loved games and technology and that was always around me, 
- growing up as a person and profissional i ended in up in different places of work
-  After a couple years  in a logistics area, I faced issues that technology would make much easier and that was the spark to merge love and work together :revolving_hearts:.
- 
-#### :star_struck: I’m interested in: 
+# Hey there! I'm Jefferson Ferreira
 
-1.  Mobile development in Flutter
-2.  Web development in Flutter
+Systems Analysis and Development student at SENAC, based in Brazil.
 
-#### :dart: I’m currently learning:
-- Dart
-- Flutter
+Passionate about **software development, data, automation, and artificial intelligence**.
 
-#### :toolbox: My tools:
+My journey into tech began by identifying real-world challenges in logistics and administrative processes that could be solved through technology.
 
-- Visual Studio Code
-- Git
-- Android Studio
+### Tech Stack
 
- #### :telescope: How to reach me:
+**Languages**
 
-  You guys can reach me on my [ LinkedIn ](https://www.linkedin.com/in/jefferson-paulo-gomes-ferreira-jp2/).
-<!---
-Jeeploo/Jeeploo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Currently Exploring
+
+Backend Development · Data Engineering · AI & LLMs
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-paulo-gomes-ferreira-jp2/)
+
+---
+
+*Turning real-world problems into practical solutions.*
